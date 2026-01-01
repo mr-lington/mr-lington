@@ -1,7 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Darlington! <br/><a href="https://www.linkedin.com/in/darlingtonimade">DevOps/Cloud Engineer</a></h1>
+
+<h2>👨‍💻 My Projects Portfolio:</h2>
+
+- <b>Secure AWS EKS CI/CD Pipeline with Terraform, GitHub Actions, ArgoCD & GitOps</b>
+  - [Praciting GitHub Action & ArgoCD](https://github.com/mr-lington/Build-a-Secure-AWS-EKS-CI-CD-Pipeline-with-ArgoCD-GitHub-Actions.git)
+- <b>Full EKS Deployment using terraform</b>
+  - [Demostrate the deployment of all external component of EKS Cluster](https://github.com/mr-lington/eks-deployment.git)
+- <b>Deploying of a Monolitic Containerised Java Enterprise Application</b>
+  - [Application deployed using docker, ansible, jenkins, HashiCorp Vault](https://github.com/mr-lington/auto-discovery2.git)
+- <b> (Java Spring Boot Web Application – Containerized & Deployment-Ready)</b>
+  - [Running the Application Locally](https://github.com/mr-lington/lingtonPuffy.git)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/darlingtonimade
 
 <!--
-**mr-lington/mr-lington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
