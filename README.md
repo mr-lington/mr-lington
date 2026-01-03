@@ -8,8 +8,10 @@
   - [Demostrate the deployment of all external component of EKS Cluster](https://github.com/mr-lington/eks-deployment.git)
 - <b>Deploying of a Monolitic Containerised Java Enterprise Application</b>
   - [Application deployed using docker, ansible, jenkins, HashiCorp Vault](https://github.com/mr-lington/auto-discovery2.git)
-- <b> (Java Spring Boot Web Application – Containerized & Deployment-Ready)</b>
+- <b> Java Spring Boot Web Application – Containerized & Deployment-Ready</b>
   - [Running the Application Locally](https://github.com/mr-lington/lingtonPuffy.git)
+- <b> Kube Admin K8s</b>
+  - [Manually set up K8s Cluster](https://github.com/mr-lington/kubeadm.git)
 
 <h2> 🤳 Connect with me:</h2>
 
