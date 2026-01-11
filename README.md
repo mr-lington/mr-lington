@@ -12,6 +12,8 @@
   - [Running the Application Locally](https://github.com/mr-lington/lingtonPuffy.git)
 - <b> Kube Admin K8s</b>
   - [Manually set up K8s Cluster](https://github.com/mr-lington/kubeadm.git)
+- <b>Monitoring and logging</b>
+  - [Using Loki, Alloy Agent, Prometheus and Grafana for metrics collect and logging](https://github.com/mr-lington/Logging-and-Monitoring.git) 
 
 <h2> 🤳 Connect with me:</h2>
 
