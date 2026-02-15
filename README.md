@@ -1,4 +1,4 @@
-<h1>Hi, I'm Darlington! <br/><a href="https://www.linkedin.com/in/darlingtonimade">DevOps/Cloud Engineer</a></h1>
+<h1>Hi, I'm Darlington! <br/><a href="https://www.linkedin.com/in/darlingtonimade">DevOps/Cloud Engineer/SRE</a></h1>
 
 <h2>👨‍💻 My Projects Portfolio:</h2>
 
